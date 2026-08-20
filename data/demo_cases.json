@@ -1,0 +1,59 @@
+{
+  "verified": {
+    "case_id": "DEMO-001",
+    "applicant": {
+      "name": "Anjali Nair",
+      "dob": "15/08/2002",
+      "gate_score": "725",
+      "registration_number": "GATE2026AN123",
+      "year": "2026"
+    },
+    "document_type": "GATE Scorecard",
+    "extracted": {
+      "name": "ANJALI NAIR",
+      "dob": "15/08/2002",
+      "gate_score": "725",
+      "registration_number": "GATE2026AN123",
+      "year": "2026"
+    },
+    "ocr_confidence": 0.98
+  },
+  "mismatch": {
+    "case_id": "DEMO-002",
+    "applicant": {
+      "name": "Rahul Kumar",
+      "dob": "12/05/2002",
+      "gate_score": "825",
+      "registration_number": "GATE2026RK456",
+      "year": "2026"
+    },
+    "document_type": "GATE Scorecard",
+    "extracted": {
+      "name": "RAHUL KUMAR",
+      "dob": "12/05/2002",
+      "gate_score": "725",
+      "registration_number": "GATE2026RK456",
+      "year": "2026"
+    },
+    "ocr_confidence": 0.98
+  },
+  "review": {
+    "case_id": "DEMO-003",
+    "applicant": {
+      "name": "Akhil Thomas",
+      "dob": "08/11/2001",
+      "gate_score": "705",
+      "registration_number": "GATE2026AT789",
+      "year": "2026"
+    },
+    "document_type": "GATE Scorecard",
+    "extracted": {
+      "name": "AKHIL TH0MAS",
+      "dob": "08/11/2001",
+      "gate_score": "7?5",
+      "registration_number": "GATE2026AT789",
+      "year": "2026"
+    },
+    "ocr_confidence": 0.56
+  }
+}

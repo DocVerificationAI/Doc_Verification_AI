@@ -1,0 +1,44 @@
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# SQLite / Local Databases
+*.db
+*.sqlite3
+veridoc.db
+
+# Environment variables & API keys
+.env
+.env*.local
+!.env.example
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Logs and temporary files
+*.log
+.pytest_cache/
+.coverage
+htmlcov/

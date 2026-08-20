@@ -1,0 +1,13 @@
+streamlit
+rapidocr
+onnxruntime
+pymupdf
+pillow
+rapidfuzz
+pandas
+plotly
+numpy
+google-genai
+python-dotenv
+google-genai
+python-dotenv
